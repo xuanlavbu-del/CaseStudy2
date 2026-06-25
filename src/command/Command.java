@@ -1,4 +1,8 @@
 package command;
 
-public class Command {
+import controller.Request;
+
+public interface Command {
+
+    void execute(Request request);
 }

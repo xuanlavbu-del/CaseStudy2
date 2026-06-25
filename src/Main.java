@@ -1,23 +1,37 @@
-import javafx.application.Application;
-import javafx.scene.Scene;
-import javafx.stage.Stage;
-import controller.DictionaryController;
+import controller.*;
+import service.FileStorageService;
 
-public class MainApp extends Application {
+import java.util.Scanner;
 
-    @Override
-    public void start(Stage stage) {
+public class Main {
 
-        DictionaryController controller = new DictionaryController();
+    public static void main(
+            String[] args) {
 
-        Scene scene = new Scene(controller.getView(), 800, 500);
+        FileStorageService storage =
+                new FileStorageService();
 
-        stage.setTitle("Dictionary App");
-        stage.setScene(scene);
-        stage.show();
-    }
+        storage.loadAllWords();
 
-    public static void main(String[] args) {
-        launch(args);
+        Scanner scanner =
+                new Scanner(System.in);
+
+        System.out.print(
+                "Action: ");
+
+        String input =
+                scanner.nextLine();
+
+        RequestParser parser =
+                new RequestParser();
+
+        Request request =
+                parser.parse(input);
+
+        ActionController controller =
+                new ActionController();
+
+        controller.handle(
+                request);
     }
 }
