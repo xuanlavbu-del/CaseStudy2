@@ -56,13 +56,13 @@ public class DictionaryService {
 
             String current = normalize(word.getKeyword());
 
-            // 1. PRIORITY: prefix match (giống Google)
+
             if (current.startsWith(key)) {
                 result.add(word);
                 continue;
             }
 
-            // 2. fallback: contains match
+
             if (current.contains(key)) {
                 result.add(word);
             }
@@ -71,7 +71,7 @@ public class DictionaryService {
         return result;
     }
 
-    // ===== GET DICTIONARY =====
+
     public Map<String, Word> getDictionary() {
         return Collections.unmodifiableMap(dictionary);
     }

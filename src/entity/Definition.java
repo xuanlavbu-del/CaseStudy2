@@ -7,7 +7,7 @@ public class Definition {
     private String sentence;
     private String sentenceMeaning;
 
-    // ===== CONSTRUCTOR =====
+
     public Definition(String type,
                       String content,
                       String sentence,
@@ -19,7 +19,7 @@ public class Definition {
         this.sentenceMeaning = sentenceMeaning;
     }
 
-    // ===== GETTERS =====
+
     public String getType() {
         return type;
     }
@@ -36,7 +36,7 @@ public class Definition {
         return sentenceMeaning;
     }
 
-    // ===== OPTIONAL SETTERS (for future edit feature) =====
+
     public void setType(String type) {
         this.type = type;
     }
@@ -53,7 +53,7 @@ public class Definition {
         this.sentenceMeaning = sentenceMeaning;
     }
 
-    // ===== SAFE CHECK METHODS =====
+
     public boolean hasExample() {
         return sentence != null && !sentence.trim().isEmpty();
     }
@@ -62,7 +62,7 @@ public class Definition {
         return sentenceMeaning != null && !sentenceMeaning.trim().isEmpty();
     }
 
-    // ===== CLEAN DISPLAY (OPTIONAL UTILITY) =====
+
     public String format() {
 
         StringBuilder sb = new StringBuilder();

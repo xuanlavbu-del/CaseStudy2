@@ -100,11 +100,11 @@ public class LookupCommand implements Command {
         }
 
         // ===== AUDIO =====
-        System.out.println("Press P to play pronunciation");
+        System.out.println("Press 1 to play pronunciation");
 
         String key = scanner.nextLine();
 
-        if (key.equalsIgnoreCase("P")) {
+        if (key.equalsIgnoreCase("1")) {
 
             if (word.getAudioFile() != null && !word.getAudioFile().isEmpty()) {
                 PlayAudioService.play(word.getAudioFile());

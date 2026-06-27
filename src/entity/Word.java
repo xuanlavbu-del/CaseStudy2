@@ -10,7 +10,7 @@ public class Word {
 
     private LinkedList<Definition> definitions = new LinkedList<>();
 
-    // ===== CONSTRUCTOR =====
+
     public Word(String keyword) {
         this.keyword = keyword;
     }
@@ -20,7 +20,7 @@ public class Word {
         this.audioFile = audioFile;
     }
 
-    // ===== GETTERS =====
+
     public String getKeyword() {
         return keyword;
     }
@@ -29,12 +29,12 @@ public class Word {
         return audioFile;
     }
 
-    // RETURN READ-ONLY LIST (SAFE)
+
     public List<Definition> getDefinitions() {
         return definitions;
     }
 
-    // ===== SETTERS =====
+
     public void setKeyword(String keyword) {
         this.keyword = keyword;
     }
@@ -43,14 +43,14 @@ public class Word {
         this.audioFile = audioFile;
     }
 
-    // ===== BUSINESS METHOD =====
+
     public void addDefinition(Definition definition) {
         if (definition != null) {
             definitions.add(definition);
         }
     }
 
-    // OPTIONAL: helper
+
     public boolean hasAudio() {
         return audioFile != null && !audioFile.trim().isEmpty();
     }
