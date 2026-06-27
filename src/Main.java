@@ -17,11 +17,11 @@ public class Main {
                 new Scanner(System.in);
         System.out.println("==================================");
         System.out.println("DICTIONARY COMMANDS");
-
-        System.out.println("lookup <word>");
-        System.out.println("define <word> <type>");
-        System.out.println("drop <word>");
-        System.out.println("export");
+        System.out.println("action input:");
+        System.out.println("1. lookup <word>");
+        System.out.println("2. define <word> <type>");
+        System.out.println("3. drop <word>");
+        System.out.println("4. export");
         System.out.println("==================================");
         System.out.print(
                 "Action: ");
