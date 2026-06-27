@@ -8,65 +8,66 @@ import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.StandardCopyOption;
 
-public class UploadAudioCommand
-        implements Command {
+public class UploadAudioCommand implements Command {
 
     @Override
-    public void execute(
-            Request request) {
+    public void execute(Request request) {
 
         try {
+            String keyword = request.getKeyword();
 
-            String keyword =
-                    request.getKeyword();
-
-            String sourcePath =
-                    request.getParams().get(0);
-
-            Word word =
-                    DictionaryService
-                            .getInstance()
-                            .lookup(keyword);
-
-            if(word == null){
-
-                System.out.println(
-                        "Word not found!");
-
+            if (request.getParams() == null || request.getParams().isEmpty()) {
+                System.out.println("Vui lòng nhập đường dẫn file audio!");
                 return;
             }
 
-            File folder =
-                    new File("audio");
+            String sourcePath = request.getParams().get(0);
 
-            if(!folder.exists()){
+            Word word = DictionaryService.getInstance().lookup(keyword);
 
+            if (word == null) {
+                System.out.println("Word not found!");
+                return;
+            }
+
+            File source = new File(sourcePath);
+
+            if (!source.exists()) {
+                System.out.println("File audio không tồn tại!");
+                return;
+            }
+
+            // tạo folder audio nếu chưa có
+            File folder = new File("audio");
+            if (!folder.exists()) {
                 folder.mkdirs();
             }
 
-            File source =
-                    new File(sourcePath);
+            // lấy extension gốc (.mp3, .wav,...)
+            String fileName = source.getName();
+            String extension = "";
 
-            File target =
-                    new File(
-                            "audio/"
-                                    + keyword
-                                    + ".mp3");
+            int i = fileName.lastIndexOf(".");
+            if (i > 0) {
+                extension = fileName.substring(i);
+            }
+
+            // lưu theo từ vựng
+            File target = new File("audio/" + keyword + extension);
 
             Files.copy(
                     source.toPath(),
                     target.toPath(),
-                    StandardCopyOption.REPLACE_EXISTING);
+                    StandardCopyOption.REPLACE_EXISTING
+            );
 
-            word.setAudioFile(
-                    target.getPath());
+            // gán audio vào word
+            word.setAudioFile(target.getPath());
 
-            System.out.println(
-                    "Audio uploaded!");
+            System.out.println("Upload audio thành công: " + target.getPath());
 
-        } catch(Exception e){
-
-            e.printStackTrace();
+        } catch (Exception e) {
+            System.out.println("Upload thất bại: " + e.getMessage());
         }
     }
 }

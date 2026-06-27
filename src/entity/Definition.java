@@ -7,16 +7,23 @@ public class Definition {
     private String sentence;
     private String sentenceMeaning;
 
+    public String getAudio() {
+        return audio;
+    }
+
+    private String audio;
 
     public Definition(String type,
                       String content,
                       String sentence,
-                      String sentenceMeaning) {
+                      String sentenceMeaning,
+                      String audio) {
 
         this.type = type;
         this.content = content;
         this.sentence = sentence;
         this.sentenceMeaning = sentenceMeaning;
+        this.audio = audio;
     }
 
 

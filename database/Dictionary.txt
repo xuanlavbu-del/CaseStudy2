@@ -1,95 +1,96 @@
+account;NOUN;tài khoản;The account is active;Tài khoản đang hoạt động;
+advertising;NOUN;quảng cáo;Advertising boosts sales;Quảng cáo thúc đẩy doanh số;
+analysis;NOUN;phân tích;Data analysis is useful;Phân tích dữ liệu rất hữu ích;
+audit;NOUN;đánh giá;The audit was completed;Cuộc đánh giá đã hoàn thành;
+bank;NOUN;ngân hàng;The bank approved the loan;Ngân hàng phê duyệt khoản vay;
+book;NOUN;sách;I read a book;Tôi đọc một cuốn sách;
+brand;NOUN;thương hiệu;The brand is famous;Thương hiệu nổi tiếng;
+budget;NOUN;ngân sách;The budget was approved;Ngân sách đã được phê duyệt;
+business;NOUN;doanh nghiệp;She runs a business;Cô ấy điều hành doanh nghiệp;
+career;NOUN;sự nghiệp;She has a successful career;Cô ấy có sự nghiệp thành công;
+cash;NOUN;tiền mặt;Cash payment is accepted;Chấp nhận thanh toán tiền mặt;
+challenge;NOUN;thách thức;Every challenge has solutions;Mỗi thách thức đều có giải pháp;
+client;NOUN;khách hàng;The client requested changes;Khách hàng yêu cầu thay đổi;
+communication;NOUN;giao tiếp;Communication is essential;Giao tiếp rất quan trọng;
+company;NOUN;công ty;The company grows rapidly;Công ty phát triển nhanh;
+competition;NOUN;cạnh tranh;Competition is intense;Cạnh tranh rất gay gắt;
+computer;NOUN;máy tính;This computer is fast;Máy tính này rất nhanh;
+contract;NOUN;hợp đồng;The contract was signed;Hợp đồng đã được ký;
+cost;NOUN;chi phí;Production cost increased;Chi phí sản xuất tăng;
+customer;NOUN;khách hàng;The customer is satisfied;Khách hàng hài lòng;
+customs;NOUN;hải quan;Customs cleared the goods;Hải quan thông quan hàng hóa;
+data;NOUN;dữ liệu;The data was collected;Dữ liệu đã được thu thập;
+development;NOUN;phát triển;Business development is important;Phát triển kinh doanh rất quan trọng;
+director;NOUN;giám đốc;The director approved the plan;Giám đốc phê duyệt kế hoạch;
+document;NOUN;tài liệu;Please send the document;Vui lòng gửi tài liệu;
+education;NOUN;giáo dục;Education creates opportunities;Giáo dục tạo cơ hội;
+employee;NOUN;nhân viên;The employee works hard;Nhân viên làm việc chăm chỉ;
+equipment;NOUN;thiết bị;The equipment is modern;Thiết bị hiện đại;
+experience;NOUN;kinh nghiệm;Experience is valuable;Kinh nghiệm rất quý giá;
+export;VERB;xuất khẩu;Vietnam exports coffee;Việt Nam xuất khẩu cà phê;
+factory;NOUN;nhà máy;The factory produces goods;Nhà máy sản xuất hàng hóa;
+failure;NOUN;thất bại;Failure teaches lessons;Thất bại mang lại bài học;
+finance;NOUN;tài chính;Finance is important;Tài chính rất quan trọng;
+food;NOUN;thực phẩm;Food quality matters;Chất lượng thực phẩm rất quan trọng;
+future;NOUN;tương lai;We plan for the future;Chúng tôi lập kế hoạch cho tương lai;
+goal;NOUN;mục tiêu;Our goal is growth;Mục tiêu của chúng tôi là tăng trưởng;
+growth;NOUN;tăng trưởng;The company achieved growth;Công ty đạt tăng trưởng;
+hazard;NOUN;mối nguy;Chemical hazards must be controlled;Mối nguy hóa học phải được kiểm soát;
+hygiene;NOUN;vệ sinh;Good hygiene prevents disease;Vệ sinh tốt ngăn ngừa bệnh;
+import;VERB;nhập khẩu;The company imports machinery;Công ty nhập khẩu máy móc;
+information;NOUN;thông tin;The information is accurate;Thông tin chính xác;
+inspection;NOUN;kiểm tra;Inspection ensures quality;Kiểm tra đảm bảo chất lượng;
+internet;NOUN;internet;The internet connects people;Internet kết nối mọi người;
+investment;NOUN;đầu tư;Investment creates opportunities;Đầu tư tạo cơ hội;
+invoice;NOUN;hóa đơn;The invoice was issued;Hóa đơn đã được phát hành;
+job;NOUN;công việc;I enjoy my job;Tôi thích công việc của mình;
+knowledge;NOUN;kiến thức;Knowledge is power;Tri thức là sức mạnh;
+language;NOUN;ngôn ngữ;English is an international language;Tiếng Anh là ngôn ngữ quốc tế;
+leader;NOUN;lãnh đạo;A leader inspires people;Người lãnh đạo truyền cảm hứng;
+loan;NOUN;khoản vay;The loan was approved;Khoản vay được duyệt;
+logistics;NOUN;hậu cần;Logistics reduces costs;Hậu cần giúp giảm chi phí;
+loss;NOUN;thua lỗ;The business suffered a loss;Doanh nghiệp bị thua lỗ;
+machine;NOUN;máy móc;The machine works well;Máy hoạt động tốt;
+management;NOUN;quản trị;Management is important;Quản trị rất quan trọng;
+manager;NOUN;quản lý;The manager leads the team;Người quản lý điều hành nhóm;
+market;NOUN;thị trường;The market is growing;Thị trường đang phát triển;
+marketing;NOUN;tiếp thị;Marketing attracts customers;Tiếp thị thu hút khách hàng;
+meeting;NOUN;cuộc họp;We have a meeting today;Hôm nay chúng tôi có cuộc họp;
+negative;ADJECTIVE;tiêu cực;a negative attitude;một thái độ tiêu cực;
+network;NOUN;mạng lưới;The network is stable;Mạng lưới ổn định;
+opportunity;NOUN;cơ hội;This is a great opportunity;Đây là cơ hội tuyệt vời;
+partner;NOUN;đối tác;The partner supports us;Đối tác hỗ trợ chúng tôi;
+payment;NOUN;thanh toán;Payment was received;Đã nhận thanh toán;
+plan;NOUN;kế hoạch;We need a good plan;Chúng ta cần một kế hoạch tốt;
 positive;audio/positive.m4a;ADJECTIVE;tích cực;a positive factor;một nhân tố tích cực
-negative;ADJECTIVE;tiêu cực;a negative attitude;một thái độ tiêu cực
-student;NOUN;sinh viên;She is a student;Cô ấy là sinh viên
-teacher;NOUN;giáo viên;My teacher is kind;Giáo viên của tôi rất tốt
-school;NOUN;trường học;I go to school every day;Tôi đi học mỗi ngày
-book;NOUN;sách;I read a book;Tôi đọc một cuốn sách
-computer;NOUN;máy tính;This computer is fast;Máy tính này rất nhanh
-business;NOUN;doanh nghiệp;She runs a business;Cô ấy điều hành doanh nghiệp
-management;NOUN;quản trị;Management is important;Quản trị rất quan trọng
-marketing;NOUN;tiếp thị;Marketing attracts customers;Tiếp thị thu hút khách hàng
-customer;NOUN;khách hàng;The customer is satisfied;Khách hàng hài lòng
-supplier;NOUN;nhà cung cấp;The supplier delivers goods;Nhà cung cấp giao hàng
-product;NOUN;sản phẩm;This product is popular;Sản phẩm này phổ biến
-service;NOUN;dịch vụ;Good service keeps customers;Dịch vụ tốt giữ chân khách hàng
-company;NOUN;công ty;The company grows rapidly;Công ty phát triển nhanh
-employee;NOUN;nhân viên;The employee works hard;Nhân viên làm việc chăm chỉ
-manager;NOUN;quản lý;The manager leads the team;Người quản lý điều hành nhóm
-director;NOUN;giám đốc;The director approved the plan;Giám đốc phê duyệt kế hoạch
-leader;NOUN;lãnh đạo;A leader inspires people;Người lãnh đạo truyền cảm hứng
-team;NOUN;nhóm;The team achieved success;Nhóm đã thành công
-meeting;NOUN;cuộc họp;We have a meeting today;Hôm nay chúng tôi có cuộc họp
-project;NOUN;dự án;The project is successful;Dự án thành công
-plan;NOUN;kế hoạch;We need a good plan;Chúng ta cần một kế hoạch tốt
-goal;NOUN;mục tiêu;Our goal is growth;Mục tiêu của chúng tôi là tăng trưởng
-strategy;NOUN;chiến lược;The strategy works well;Chiến lược hoạt động hiệu quả
-finance;NOUN;tài chính;Finance is important;Tài chính rất quan trọng
-investment;NOUN;đầu tư;Investment creates opportunities;Đầu tư tạo cơ hội
-profit;NOUN;lợi nhuận;The company made a profit;Công ty có lợi nhuận
-loss;NOUN;thua lỗ;The business suffered a loss;Doanh nghiệp bị thua lỗ
-budget;NOUN;ngân sách;The budget was approved;Ngân sách đã được phê duyệt
-cost;NOUN;chi phí;Production cost increased;Chi phí sản xuất tăng
-price;NOUN;giá cả;The price is reasonable;Giá cả hợp lý
-sale;NOUN;bán hàng;Sales increased this month;Doanh số tăng tháng này
-purchase;NOUN;mua hàng;The purchase was completed;Việc mua hàng hoàn tất
-contract;NOUN;hợp đồng;The contract was signed;Hợp đồng đã được ký
-partner;NOUN;đối tác;The partner supports us;Đối tác hỗ trợ chúng tôi
-client;NOUN;khách hàng;The client requested changes;Khách hàng yêu cầu thay đổi
-market;NOUN;thị trường;The market is growing;Thị trường đang phát triển
-competition;NOUN;cạnh tranh;Competition is intense;Cạnh tranh rất gay gắt
-advertising;NOUN;quảng cáo;Advertising boosts sales;Quảng cáo thúc đẩy doanh số
-promotion;NOUN;khuyến mãi;The promotion attracted buyers;Khuyến mãi thu hút người mua
-brand;NOUN;thương hiệu;The brand is famous;Thương hiệu nổi tiếng
-quality;NOUN;chất lượng;Quality is our priority;Chất lượng là ưu tiên hàng đầu
-standard;NOUN;tiêu chuẩn;The product meets standards;Sản phẩm đạt tiêu chuẩn
-inspection;NOUN;kiểm tra;Inspection ensures quality;Kiểm tra đảm bảo chất lượng
-audit;NOUN;đánh giá;The audit was completed;Cuộc đánh giá đã hoàn thành
-safety;NOUN;an toàn;Food safety is important;An toàn thực phẩm rất quan trọng
-hygiene;NOUN;vệ sinh;Good hygiene prevents disease;Vệ sinh tốt ngăn ngừa bệnh
-hazard;NOUN;mối nguy;Chemical hazards must be controlled;Mối nguy hóa học phải được kiểm soát
-risk;NOUN;rủi ro;Risk management is necessary;Quản lý rủi ro là cần thiết
-food;NOUN;thực phẩm;Food quality matters;Chất lượng thực phẩm rất quan trọng
-factory;NOUN;nhà máy;The factory produces goods;Nhà máy sản xuất hàng hóa
-production;NOUN;sản xuất;Production increased this year;Sản lượng tăng năm nay
-machine;NOUN;máy móc;The machine works well;Máy hoạt động tốt
-equipment;NOUN;thiết bị;The equipment is modern;Thiết bị hiện đại
-warehouse;NOUN;kho hàng;Goods are stored in the warehouse;Hàng được lưu trong kho
-logistics;NOUN;hậu cần;Logistics reduces costs;Hậu cần giúp giảm chi phí
-transport;NOUN;vận chuyển;Transport takes two days;Vận chuyển mất hai ngày
-shipment;NOUN;lô hàng;The shipment arrived today;Lô hàng đến hôm nay
-export;VERB;xuất khẩu;Vietnam exports coffee;Việt Nam xuất khẩu cà phê
-import;VERB;nhập khẩu;The company imports machinery;Công ty nhập khẩu máy móc
-customs;NOUN;hải quan;Customs cleared the goods;Hải quan thông quan hàng hóa
-document;NOUN;tài liệu;Please send the document;Vui lòng gửi tài liệu
-invoice;NOUN;hóa đơn;The invoice was issued;Hóa đơn đã được phát hành
-payment;NOUN;thanh toán;Payment was received;Đã nhận thanh toán
-bank;NOUN;ngân hàng;The bank approved the loan;Ngân hàng phê duyệt khoản vay
-loan;NOUN;khoản vay;The loan was approved;Khoản vay được duyệt
-account;NOUN;tài khoản;The account is active;Tài khoản đang hoạt động
-cash;NOUN;tiền mặt;Cash payment is accepted;Chấp nhận thanh toán tiền mặt
-revenue;NOUN;doanh thu;Revenue increased this quarter;Doanh thu tăng quý này
-growth;NOUN;tăng trưởng;The company achieved growth;Công ty đạt tăng trưởng
-development;NOUN;phát triển;Business development is important;Phát triển kinh doanh rất quan trọng
-training;NOUN;đào tạo;Training improves skills;Đào tạo nâng cao kỹ năng
-education;NOUN;giáo dục;Education creates opportunities;Giáo dục tạo cơ hội
-research;NOUN;nghiên cứu;Research supports innovation;Nghiên cứu hỗ trợ đổi mới
-analysis;NOUN;phân tích;Data analysis is useful;Phân tích dữ liệu rất hữu ích
-information;NOUN;thông tin;The information is accurate;Thông tin chính xác
-data;NOUN;dữ liệu;The data was collected;Dữ liệu đã được thu thập
-technology;NOUN;công nghệ;Technology changes business;Công nghệ thay đổi kinh doanh
-internet;NOUN;internet;The internet connects people;Internet kết nối mọi người
-software;NOUN;phần mềm;The software is updated;Phần mềm được cập nhật
-system;NOUN;hệ thống;The system works efficiently;Hệ thống hoạt động hiệu quả
-network;NOUN;mạng lưới;The network is stable;Mạng lưới ổn định
-communication;NOUN;giao tiếp;Communication is essential;Giao tiếp rất quan trọng
-language;NOUN;ngôn ngữ;English is an international language;Tiếng Anh là ngôn ngữ quốc tế
-success;NOUN;thành công;Hard work leads to success;Làm việc chăm chỉ dẫn đến thành công
-failure;NOUN;thất bại;Failure teaches lessons;Thất bại mang lại bài học
-opportunity;NOUN;cơ hội;This is a great opportunity;Đây là cơ hội tuyệt vời
-challenge;NOUN;thách thức;Every challenge has solutions;Mỗi thách thức đều có giải pháp
-experience;NOUN;kinh nghiệm;Experience is valuable;Kinh nghiệm rất quý giá
-knowledge;NOUN;kiến thức;Knowledge is power;Tri thức là sức mạnh
-skill;NOUN;kỹ năng;Communication skill is important;Kỹ năng giao tiếp rất quan trọng
-career;NOUN;sự nghiệp;She has a successful career;Cô ấy có sự nghiệp thành công
-job;NOUN;công việc;I enjoy my job;Tôi thích công việc của mình
-future;NOUN;tương lai;We plan for the future;Chúng tôi lập kế hoạch cho tương lai
+price;NOUN;giá cả;The price is reasonable;Giá cả hợp lý;
+product;NOUN;sản phẩm;This product is popular;Sản phẩm này phổ biến;
+production;NOUN;sản xuất;Production increased this year;Sản lượng tăng năm nay;
+profit;NOUN;lợi nhuận;The company made a profit;Công ty có lợi nhuận;
+project;NOUN;dự án;The project is successful;Dự án thành công;
+promotion;NOUN;khuyến mãi;The promotion attracted buyers;Khuyến mãi thu hút người mua;
+purchase;NOUN;mua hàng;The purchase was completed;Việc mua hàng hoàn tất;
+quality;NOUN;chất lượng;Quality is our priority;Chất lượng là ưu tiên hàng đầu;
+research;NOUN;nghiên cứu;Research supports innovation;Nghiên cứu hỗ trợ đổi mới;
+revenue;NOUN;doanh thu;Revenue increased this quarter;Doanh thu tăng quý này;
+risk;NOUN;rủi ro;Risk management is necessary;Quản lý rủi ro là cần thiết;
+safety;NOUN;an toàn;Food safety is important;An toàn thực phẩm rất quan trọng;
+sale;NOUN;bán hàng;Sales increased this month;Doanh số tăng tháng này;
+school;NOUN;trường học;I go to school every day;Tôi đi học mỗi ngày;
+service;NOUN;dịch vụ;Good service keeps customers;Dịch vụ tốt giữ chân khách hàng;
+shipment;NOUN;lô hàng;The shipment arrived today;Lô hàng đến hôm nay;
+skill;NOUN;kỹ năng;Communication skill is important;Kỹ năng giao tiếp rất quan trọng;
+software;NOUN;phần mềm;The software is updated;Phần mềm được cập nhật;
+standard;NOUN;tiêu chuẩn;The product meets standards;Sản phẩm đạt tiêu chuẩn;
+strategy;NOUN;chiến lược;The strategy works well;Chiến lược hoạt động hiệu quả;
+student;NOUN;sinh viên;She is a student;Cô ấy là sinh viên;
+success;NOUN;thành công;Hard work leads to success;Làm việc chăm chỉ dẫn đến thành công;
+supplier;NOUN;nhà cung cấp;The supplier delivers goods;Nhà cung cấp giao hàng;
+system;NOUN;hệ thống;The system works efficiently;Hệ thống hoạt động hiệu quả;
+teacher;NOUN;giáo viên;My teacher is kind;Giáo viên của tôi rất tốt;
+team;NOUN;nhóm;The team achieved success;Nhóm đã thành công;
+technology;NOUN;công nghệ;Technology changes business;Công nghệ thay đổi kinh doanh;
+training;NOUN;đào tạo;Training improves skills;Đào tạo nâng cao kỹ năng;
+transport;NOUN;vận chuyển;Transport takes two days;Vận chuyển mất hai ngày;
+verb;;work;làm việc;i work in ha noi;tôi làm việc ở hà nội
+warehouse;NOUN;kho hàng;Goods are stored in the warehouse;Hàng được lưu trong kho;

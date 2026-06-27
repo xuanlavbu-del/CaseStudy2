@@ -107,7 +107,8 @@ public class FileStorageService {
                                 type,
                                 content,
                                 sentence,
-                                sentenceMeaning);
+                                sentenceMeaning,
+                                audioFile);
 
                 word.addDefinition(
                         definition);
